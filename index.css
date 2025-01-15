@@ -1,0 +1,15 @@
+.word {
+  margin-right: 1rem;
+  padding: .25rem;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+.word:hover,
+form>button:hover {
+  background-color: #f0f0f0;
+}
+
+form {
+  margin-bottom: 1rem;
+}
